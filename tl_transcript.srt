@@ -1,56 +1,184 @@
-
 1
-00:00:00,000 --> 00:00:01,000
-テスト翻訳
-
-1
-00:00:00,000 --> 00:00:02,000
-テスト翻訳
-
-1
-447489071:02:15,000 --> 00:54:56,000
-テスト中
+00:00:00,000 --> 00:00:45,146
+That name is Doraemon's song.
 
 2
-00:54:56,000 --> 447489190:19:29,000
-テスト中
+00:00:45,146 --> 00:01:15,136
+Ahhhhh.
 
 3
-447489190:19:29,000 --> 08:01:31,000
-テスト中
+00:01:15,136 --> 00:01:45,150
+Panna Cotta I wish I could do such a dream Such a dream. Everyone will come true. Is it a mysterious pocket?
 
 4
-08:01:31,000 --> 447489195:13:45,000
-テスト中
+00:01:45,150 --> 00:02:00,127
+Eclair Nobita-kun I want to fly freely in the sky. I love it very much.
 
 5
-447489195:13:45,000 --> 16:53:13,000
-テスト中
+00:02:00,127 --> 00:02:15,111
+It's raining.
 
 6
-16:53:13,000 --> 447489209:50:56,000
-テスト中
+00:02:15,111 --> 00:02:30,163
+Such a thing experience. Namina Mina.
 
 7
-447489209:50:56,000 --> 17:55:42,000
-テスト中
+00:02:30,163 --> 00:02:45,140
+Useful tools will help you. stop.
 
 8
-17:55:42,000 --> 447489254:09:22,000
-テスト中
+00:02:45,140 --> 00:03:00,113
+But I love it.
 
 9
-447489254:09:22,000 --> 34:48:36,000
-テスト中
+00:03:00,113 --> 00:03:15,144
+Don't blame me too much, mom. I wish I could go.
 
 10
-34:48:36,000 --> 447489267:46:55,000
-テスト中123
+00:03:15,144 --> 00:03:30,120
+There are many. It will come true with future machines that will let you go.
 
 11
-447489267:46:55,000 --> 41:11:09,000
-テスト中123
+00:03:30,120 --> 00:03:45,111
+Ahhhhh. Anpan.
 
 12
-41:11:09,000 --> 447489288:27:20,000
-テスト中123
+00:03:45,111 --> 00:04:00,148
+But I love Doraemon.
+
+13
+00:04:00,148 --> 00:04:30,103
+Doraemon's song.
+
+14
+00:04:30,103 --> 00:04:45,138
+Doraemon seems to understand. Thank you.
+
+15
+00:04:45,138 --> 00:05:00,088
+Thank you Ponzu-san and Anna-san.
+
+16
+00:05:00,088 --> 00:05:15,180
+How do you know what you know? Doraemon's song isn't being aired, isn't it? Yuki also has 3 episodes. I understand.
+
+17
+00:05:15,180 --> 00:05:30,109
+It's a famous song. It's common.
+
+18
+00:05:30,109 --> 00:05:45,137
+Kewpie baby low. Same OP.
+
+19
+00:05:45,137 --> 00:06:00,092
+What are you saying?
+
+20
+00:06:00,092 --> 00:06:15,089
+Dragon ball z.
+
+21
+00:06:15,089 --> 00:06:30,122
+Dragon Ball z song. Survivor who breaks through the limit.
+
+22
+00:06:30,122 --> 00:06:45,093
+Thank you, Canned Penguins.
+
+23
+00:06:45,093 --> 00:07:15,088
+It's a mess.
+
+24
+00:07:15,088 --> 00:08:00,141
+I really don't understand Nintama Rantaro. Nintama Rantaro. If I hadn't seen Nintama Rantaro, I would.
+
+25
+00:08:00,141 --> 00:08:15,078
+Nintama Rantaro. Percent Courage Hyakupa.
+
+26
+00:08:15,078 --> 00:08:30,116
+You know who you are.
+
+27
+00:08:30,116 --> 00:09:15,118
+A nostalgic song song song. Song frame. I forgot to sing. A lot of old anime songs sing and explode.
+
+28
+00:09:15,118 --> 00:09:30,134
+You're sleepy. Do your dreams still come true?
+
+29
+00:09:30,134 --> 00:09:45,117
+It is the last. percent.
+
+30
+00:09:45,117 --> 00:10:15,060
+Well then. what's up.
+
+31
+00:10:15,060 --> 00:10:30,125
+Where are you laughing like?
+
+32
+00:10:30,125 --> 00:10:45,134
+I'm always by my side. Dreams would be boring if they weren't big.
+
+33
+00:10:45,134 --> 00:11:00,122
+I have no choice but to do my best. While embracing the energy of this world.
+
+34
+00:11:00,122 --> 00:11:15,102
+100%. I'm done. The brilliance we can have.
+
+35
+00:11:15,102 --> 00:11:45,125
+You just have to hit or hurt.
+
+36
+00:11:45,125 --> 00:12:00,135
+I like the wind that can chase after you for dedication. The sky I couldn't fly yesterday.
+
+37
+00:12:00,135 --> 00:12:15,102
+e-girls 2 turns is fine. 100% hot water. Come on in.
+
+38
+00:12:15,102 --> 00:12:30,129
+Ken Takakura says it's not the time to end with tears.
+
+39
+00:12:30,129 --> 00:12:45,126
+Like us.
+
+40
+00:12:45,126 --> 00:13:00,113
+A song with hope.
+
+41
+00:13:00,113 --> 00:13:15,144
+lonely. A dinosaur has arrived.
+
+42
+00:13:15,144 --> 00:13:30,140
+I have to do my best. Games around the world.
+
+43
+00:13:30,140 --> 00:13:45,089
+There is no choice but to do it. The brilliance we can have.
+
+44
+00:13:45,089 --> 00:14:00,077
+Don't put it in. Bye bye.
+
+45
+00:14:00,077 --> 00:14:45,096
+Mr. Lee Bates, Mr. After all.
+
+46
+00:14:45,096 --> 00:15:00,044
+Bye bye.
+
