@@ -22,7 +22,10 @@ https://raw.githubusercontent.com/kanatran/baquap/{VIDEO_ID}/last_tl.json
 ```json
 {
     "index": 0,
-    "time": "00:00:00,000 --> 00:00:15,000",
+    "time": [
+        "00:00:00,000",
+        "00:04:15,000"
+    ],
     "transcript": "日本語",
     "translation": "English"
 }
